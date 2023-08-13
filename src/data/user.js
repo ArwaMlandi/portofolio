@@ -1,4 +1,6 @@
 import logo from "../images/logo.png"
+import react from '../images/work11.png'
+import tailwind1 from '../images/tailwind1.png'
 const INFO = {
 	main: {
 
@@ -39,12 +41,21 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Optical Circuit",
+			description:
+				"I worked in this application in the previous company with a team for a customer in Saudi Arabia (I worked to create the dashbord on my own and contributed to the development of the site)",
+			logo: react,
+			linkText: "View Project",
+			link: "https://tanwirat.bw-businessworld.com/",
+		},
+
+		{
 			title: "Sport Clinc",
 			description:
 				"This application is for advertisements for a sports club that has the latest modern sports equipment and includes the latest trainers and the most important sports programs",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com/ArwaMlandi/SportClinc",
+			link: "https://arwamlandi.github.io/SportClinc/",
 		},
 
 		
@@ -53,18 +64,27 @@ const INFO = {
 			title: "Makeup Shop",
 			description:
 				"his application is for skin products, as it includes the most important products with international specifications, high quality, and suitable for all skin types",
+			logo: tailwind1,
+			linkText: "View Project",
+			link: "https://arwamlandi.github.io/MakeupShop/",
+		},
+
+		{
+			title: "Movie Recommend",
+			description:
+				"An application to suggest movies, comedies, romantic, action and children's films This app shows each movie's rating and synopsis",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com/ArwaMlandi/MakeupShop",
+			link: "https://arwamlandi.github.io/MovieTask/",
 		},
 
 		{
 			title: "Task Focal",
 			description:
 				"This application is a training affiliated to the FocalX Foundation",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo:"https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png",
 			linkText: "View Project",
-			link: "https://github.com/ArwaMlandi/Task1Focal",
+			link: "https://arwamlandi.github.io/Task1Focal/",
 		}
 
 		

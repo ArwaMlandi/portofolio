@@ -45,7 +45,7 @@ const Works = () => {
 
 							
 							</div>
-							<div className="work-duration">2012 - Present</div>
+							
 
 						</div>
 				
