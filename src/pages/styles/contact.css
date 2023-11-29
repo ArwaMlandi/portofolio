@@ -16,7 +16,10 @@
 .contact-subtitle {
 	width: 100% !important;
 }
-
+.phone{
+	color: -webkit-link;
+    text-decoration: underline;
+}
 .contact-container {
 	display: flex;
 	flex-direction: column;

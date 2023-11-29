@@ -40,7 +40,7 @@ const Contact = () => {
 
 					<div className="contact-container">
 						<div className="title contact-title">
-							Let's Get in Touch: Ways to Connect with Me
+							Contact with me
 						</div>
 
 						<div className="subtitle contact-subtitle">
@@ -51,7 +51,10 @@ const Contact = () => {
 							&nbsp;{" "}
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}
-							</a>
+							</a> 
+							 or in WhatsApp :&nbsp;{" "}
+							
+							 <a className="phone">{INFO.main.phone}</a>
 							. I make an effort to respond to all messages within
 							24 hours, although it may take me longer during busy
 							periods. Alternatively, you can use the contact form

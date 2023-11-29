@@ -1,5 +1,5 @@
 
-Live demo here: <a href="https://reactfolio.tharindu.dev/" target="_blank">reactfolio.tharindu.dev</a>
+Live demo here: <a href="https://github.com/ArwaMlandi/portofolio" target="_blank">reactfolio.ArwaMlandi</a>
 
 ## 📚 Getting started
 
@@ -106,7 +106,7 @@ Directory: `/src/data/`
     		page: "home",
     		description:
     			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-    		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+    		keywords: ["ArwaMland", "Arwa Ml", "Arwa M"],
     	},
     ];
     ```

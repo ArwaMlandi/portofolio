@@ -45,7 +45,22 @@ const Works = () => {
 
 							
 							</div>
-							
+							<div className="work">
+							<img
+								src={work}
+								alt="facebook"
+								className="work-image"
+							/>
+							<div className="work-title">FocalX Agency</div>
+							<div className="work-subtitle">
+
+								Front-End Developer
+
+								
+
+							</div>
+							<div className="work-duration">2023</div>
+						</div>
 
 						</div>
 				

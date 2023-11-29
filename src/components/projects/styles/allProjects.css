@@ -15,8 +15,12 @@
 	overflow: hidden;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 789px) {
+	.all-projects-container {
+		display: flex;
+		flex-direction: row;
+	}
 	.all-projects-project {
-		width: calc(100% / 2);
+		width: 100%
 	}
 }

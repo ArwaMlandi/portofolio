@@ -16,6 +16,7 @@
 .project:hover {
 	background: #ffffff;
 	opacity: 1;
+	font-weight: 600;
 	transition: background-color 0.3s ease-in-out;
 }
 
@@ -48,6 +49,13 @@
 .project-description {
 	color: var(--secondary-color);
 }
+.project-techno{
+	margin-top: 10px;
+	color: black;
+	font-weight: bold;
+	font-size: 15px;
+	overflow-wrap: break-word;
+}
 
 .project-link {
 	display: flex;
@@ -67,8 +75,11 @@
 	font-weight: 700;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 789px) {
 	.project {
 		margin: 12px;
+		height: auto;
 	}
+	
+	
 }

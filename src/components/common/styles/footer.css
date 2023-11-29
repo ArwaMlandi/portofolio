@@ -36,6 +36,7 @@
 
 .footer-nav-link-list a:hover {
 	color: var(--link-color);
+	text-decoration: underline;
 }
 
 .footer-credits-text {

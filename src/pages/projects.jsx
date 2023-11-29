@@ -39,8 +39,7 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-							Things I’ve made trying to put my dent in the
-							universe.
+							My Projects
 						</div>
 
 						<div className="subtitle projects-subtitle">
@@ -53,7 +52,7 @@ const Projects = () => {
 							any improvements or enhancements you might have in
 							mind. Collaborating with others is a great way to
 							learn and grow, and I'm always open to new ideas and
-							feedback.
+							feedback. <br/> <br/>Note: My projects are responsive.
 						</div>
 
 						<div className="projects-list">

@@ -11,7 +11,7 @@ import Contact from "./pages/contact";
 import Notfound from "./pages/404";
 
 import { TRACKING_ID } from "./data/tracking";
-import "./app.css";
+import "./App.css";
 
 function App() {
 	useEffect(() => {
@@ -21,7 +21,7 @@ function App() {
 	}, []);
 
 	return (
-		<div className="App">
+		<div>
 			<Routes>
 				<Route path="/" element={<Homepage />} />
 				<Route path="/about" element={<About />} />
